@@ -1,0 +1,6 @@
+{
+  "name": "OZzo Design",
+  "description": "Plateforme unifiée pour OZzo Design, OZzo Events et la billetterie sécurisée N'KA TICKET.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
